@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Jaywalk Blog Admin</title>
+  <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+</head>
+<body>
+  <script>
+    CMS.init({
+      config: {
+        backend: {
+          name: "github",
+          repo: "jaywalk-web/site",
+          branch: "main",
+          base_url: "https://jaywalk-web.github.io/site/blog",
+        },
+        media_folder: "blog/images/posts",
+        public_folder: "/blog/images/posts",
+        collections: [
+          {
+            name: "posts",
+            label: "Blog Posts",
+            folder: "blog/articles",
+            create: true,
+            slug: "{{slug}}",
+            fields: [
+              { label: "Title", name: "title", widget: "string" },
+              { label: "Date", name: "date", widget: "datetime" },
+              { label: "Excerpt", name: "excerpt", widget: "text" },
+              { label: "Pillar", name: "pillar", widget: "select", 
+                options: ["action", "community", "education"] },
+              { label: "Read Time", name: "readTime", widget: "string", 
+                default: "5 min read" },
+              { label: "Featured Image", name: "image", widget: "image" },
+              { label: "Body", name: "body", widget: "markdown" }
+            ]
+          }
+        ]
+      }
+    });
+  </script>
+</body>
+</html>
