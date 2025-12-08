@@ -9,10 +9,22 @@
 5. **Your blog is live!**
 
 ## 📝 How to Add New Posts
-
 ### Step 1: Add Post Data
 Edit `js/blog-data.js` and add a new object:
+# Jaywalk Blog - GitHub CMS
 
+## 🚀 Quick Start
+
+1. **Create all folders** as shown in the structure
+2. **Copy all files** with the exact content provided
+3. **Upload to GitHub**
+4. **Enable GitHub Pages** (Settings > Pages > main branch)
+5. **Your blog is live!**
+
+## 📝 How to Add New Posts
+
+## Step 1: Add Post Data
+Edit `js/blog-data.js` and add a new object:
 ```javascript
 {
     id: "your-unique-slug",
@@ -26,8 +38,9 @@ Edit `js/blog-data.js` and add a new object:
     contentFile: "articles/your-slug.html",
     image: "images/posts/your-image.jpg"
 }
+```javascript
 
-Step 2: Create Article File
+## Step 2: Create Article File
 Copy article-template.html to articles/your-slug.html
 
 Edit the content inside <div class="article-body">
