@@ -2,16 +2,16 @@
 
 const blogPosts = [
     {
-        id: "future-pedestrian-safety",
-        title: "The Future of Pedestrian Safety in Smart Cities",
+        id: "march-friendly-guide",
+        title: "March Smart a Friendly Guide to Staying Safe While Making Change",
         excerpt: "Exploring how technology and data can work together to create safer walking environments in our increasingly connected urban landscapes.",
-        date: "May 15, 2024",
+        date: "December 13, 2025",
         pillar: "education",
         readTime: "8 min read",
         author: "Jaywalk Team",
         authorImage: "images/authors/jaywalk-team.jpg",
-        contentFile: "articles/future-pedestrian-safety.html", // This is CORRECT
-        image: "images/posts/future-pedestrian-safety.jpg"
+        contentFile: "articles/march-smart-a-friendly-guide-to-staying-safe-while-making-change.html", // This is CORRECT
+        image: "articles/images/march-smart-a-friendly-guide-to-staying-safe-while-making-change.jpg"
     },
     {
         id: "ai-crosswalk-detection",
