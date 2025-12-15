@@ -11,7 +11,7 @@ const blogPosts = [
         author: "Jaywalk Team",
         authorImage: "images/authors/jaywalk-team.jpg",
         contentFile: "articles/march-smart-a-friendly-guide-to-staying-safe-while-making-change.html", // This is CORRECT
-        image: "articles/images/March-Smart-A-Friendly-Guide-to-Staying-Safe-While-Making-Change.jpg"
+        image: "https://jaywalk-web.github.io/site/blog/articles/images/March-Smart-A-Friendly-Guide-to-Staying-Safe-While-Making-Change.jpg"
     },
     {
         id: "ai-crosswalk-detection",
