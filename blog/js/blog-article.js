@@ -8,7 +8,7 @@ function initArticlePage() {
     const articleId = articleFile.replace('.html', '');
     
     // Find current article in blogPosts
-    const currentArticle = blogPosts.find(post => post.contentFile === `articles/${articleFile}`);
+    const currentArticle = blogPosts.find(post => post.contentFile === articleFile);
     
     if (!currentArticle) {
         console.error('Article not found in blog data');
