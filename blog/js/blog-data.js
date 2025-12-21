@@ -23,7 +23,7 @@ const blogPosts = [
         author: "Jaywalk Team",
         authorImage: "images/authors/jaywalk-team.jpg",
         contentFile: "you-don't-need-a-megaphone-to-make-noise.html",
-        image: "https://github.com/jaywalk-web/site/blob/main/blog/articles/images/you-dont-need-a-megaphone-to-make-noise.jpg"
+        image: "https://ik.imagekit.io/jaywalkapp/you-dont-need-a-megaphone-to-make-noise.jpg"
     },
     {
         id: "portland-success-story",
