@@ -14,16 +14,16 @@ const blogPosts = [
         image: "https://jaywalk-web.github.io/site/blog/articles/images/March-Smart-A-Friendly-Guide-to-Staying-Safe-While-Making-Change.jpg"
     },
     {
-        id: "ai-crosswalk-detection",
-        title: "How AI is Revolutionizing Crosswalk Detection",
-        excerpt: "A deep dive into the machine learning models that power modern pedestrian safety systems.",
-        date: "May 10, 2024",
+        id: "you-dont-need-a-megaphone",
+        title: "You Don't Need A Megaphone To Makee A Noise",
+        excerpt: "When we think about activism, it’s easy to imagine huge rallies, megaphones, or massive online campaigns that trend for days",
+        date: "December 21, 2025",
         pillar: "action",
         readTime: "6 min read",
         author: "Jaywalk Team",
         authorImage: "images/authors/jaywalk-team.jpg",
-        contentFile: "articles/ai-crosswalk-detection.html",
-        image: "images/posts/ai-crosswalk-detection.jpg"
+        contentFile: "articles/you-don't-need-a-megaphone-to-make-noise.html",
+        image: "https://github.com/jaywalk-web/site/blob/main/blog/articles/images/you-dont-need-a-megaphone-to-make-noise.jpg"
     },
     {
         id: "portland-success-story",
