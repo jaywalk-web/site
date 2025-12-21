@@ -15,7 +15,7 @@ const blogPosts = [
     },
     {
         id: "you-dont-need-a-megaphone",
-        title: "You Don't Need A Megaphone To Makee A Noise",
+        title: "You Don't Need A Megaphone To Make A Noise",
         excerpt: "When we think about activism, it’s easy to imagine huge rallies, megaphones, or massive online campaigns that trend for days",
         date: "December 21, 2025",
         pillar: "action",
