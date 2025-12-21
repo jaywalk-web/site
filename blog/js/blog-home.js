@@ -72,9 +72,9 @@ function renderFilteredPosts() {
                     <span>${post.date}</span>
                     <span class="post-pillar pillar-${post.pillar}">${post.pillar}</span>
                 </div>
-                <h2><a href="${post.contentFile}">${post.title}</a></h2>
+                <h2><a href="articles/${post.contentFile}">${post.title}</a></h2>
                 <p class="post-excerpt">${post.excerpt}</p>
-                <a href="${post.contentFile}" class="read-more">Read more →</a>
+                <a href="articles/${post.contentFile}" class="read-more">Read more →</a>
             </div>
         `;
         postsGrid.appendChild(postElement);
