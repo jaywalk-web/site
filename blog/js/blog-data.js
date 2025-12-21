@@ -10,7 +10,7 @@ const blogPosts = [
         readTime: "8 min read",
         author: "Jaywalk Team",
         authorImage: "images/authors/jaywalk-team.jpg",
-        contentFile: "./articles/march-smart-a-friendly-guide-to-staying-safe-while-making-change.html", // This is CORRECT
+        contentFile: "march-smart-a-friendly-guide-to-staying-safe-while-making-change.html", // This is CORRECT
         image: "https://jaywalk-web.github.io/site/blog/articles/images/March-Smart-A-Friendly-Guide-to-Staying-Safe-While-Making-Change.jpg"
     },
     {
@@ -22,7 +22,7 @@ const blogPosts = [
         readTime: "6 min read",
         author: "Jaywalk Team",
         authorImage: "images/authors/jaywalk-team.jpg",
-        contentFile: "./articles/you-don't-need-a-megaphone-to-make-noise.html",
+        contentFile: "you-don't-need-a-megaphone-to-make-noise.html",
         image: "https://ik.imagekit.io/jaywalkapp/you-dont-need-a-megaphone-to-make-noise.jpg"
     },
     {
@@ -34,7 +34,7 @@ const blogPosts = [
         readTime: "7 min read",
         author: "Jaywalk Team",
         authorImage: "images/authors/jaywalk-team.jpg",
-        contentFile: "articles/portland-success-story.html",
+        contentFile: "portland-success-story.html",
         image: "images/posts/portland-success-story.jpg"
     },
     {
@@ -46,7 +46,7 @@ const blogPosts = [
         readTime: "5 min read",
         author: "Jaywalk Team",
         authorImage: "images/authors/jaywalk-team.jpg",
-        contentFile: "articles/community-engagement.html",
+        contentFile: "community-engagement.html",
         image: "images/posts/community-engagement.jpg"
     },
     {
@@ -58,7 +58,7 @@ const blogPosts = [
         readTime: "9 min read",
         author: "Jaywalk Team",
         authorImage: "images/authors/jaywalk-team.jpg",
-        contentFile: "articles/safety-tech-urban-mobility.html",
+        contentFile: "safety-tech-urban-mobility.html",
         image: "images/posts/safety-tech-urban-mobility.jpg"
     },
     {
@@ -70,7 +70,7 @@ const blogPosts = [
         readTime: "6 min read",
         author: "Jaywalk Team",
         authorImage: "images/authors/jaywalk-team.jpg",
-        contentFile: "articles/urban-walking-behavior.html",
+        contentFile: "urban-walking-behavior.html",
         image: "images/posts/urban-walking-behavior.jpg"
     }
 ];
