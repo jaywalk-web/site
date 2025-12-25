@@ -18,7 +18,7 @@ const blogPosts = [
         title: "You Don't Need A Megaphone To Make A Noise",
         excerpt: "When we think about activism, it’s easy to imagine huge rallies, megaphones, or massive online campaigns that trend for days",
         date: "December 21, 2025",
-        pillar: "action",
+        pillar: "community",
         readTime: "6 min read",
         author: "Jaywalk Team",
         authorImage: "images/authors/jaywalk-team.jpg",
