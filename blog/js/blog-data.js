@@ -42,7 +42,7 @@ const blogPosts = [
         title: "Why Stepping Back From Meta Helps us Reclaim Our Attention",
         excerpt: "Every scroll feels harmless — a few seconds of curiosity, a quick check-in, a break between tasks. But behind that gesture lies an entire infrastructure designed to hold your gaze.",
         date: "December 25, 2025",
-        pillar: "Education",
+        pillar: "education",
         readTime: "5 min read",
         author: "Jaywalk Team",
         authorImage: "images/authors/jaywalk-team.jpg",
