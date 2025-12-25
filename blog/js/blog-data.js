@@ -26,16 +26,16 @@ const blogPosts = [
         image: "https://ik.imagekit.io/jaywalkapp/you-dont-need-a-megaphone-to-make-noise.jpg"
     },
     {
-        id: "portland-success-story",
-        title: "Reducing Pedestrian Accidents by 40%: Portland's Success Story",
-        excerpt: "How one city combined technology and public awareness to improve pedestrian safety.",
-        date: "May 5, 2024",
+        id: "social-media-as-a-site-of-resistance-reclaiming-our-digital-power",
+        title: "Social Media as a Site of Resistance: Reclaiming Our Digital Power",
+        excerpt: "In a world where protest is met with surveillance, social media has become both a battleground and a lifeline. For many.",
+        date: "December 25, 2025",
         pillar: "action",
         readTime: "7 min read",
         author: "Jaywalk Team",
         authorImage: "images/authors/jaywalk-team.jpg",
-        contentFile: "portland-success-story.html",
-        image: "images/posts/portland-success-story.jpg"
+        contentFile: "social-media-as-a-site-of-resistance-reclaiming-our-digital-power.html",
+        image: "https://ik.imagekit.io/jaywalkapp/social-media-as-a-site-of-resistance-reclaiming-our-digital-power"
     },
     {
         id: "community-engagement",
