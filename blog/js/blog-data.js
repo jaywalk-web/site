@@ -38,16 +38,16 @@ const blogPosts = [
         image: "https://ik.imagekit.io/jaywalkapp/social-media-as-a-site-of-resistance-reclaiming-our-digital-power"
     },
     {
-        id: "community-engagement",
-        title: "Building Safer Neighborhoods Through Community Engagement",
-        excerpt: "Community-driven approaches to pedestrian safety that empower local residents.",
-        date: "April 28, 2024",
-        pillar: "community",
+        id: "why-stepping-back-from-meta-helps-us-reclaim-our-attention",
+        title: "Why Stepping Back From Meta Helps us Reclaim Our Attention",
+        excerpt: "Every scroll feels harmless — a few seconds of curiosity, a quick check-in, a break between tasks. But behind that gesture lies an entire infrastructure designed to hold your gaze.",
+        date: "December 25, 2025",
+        pillar: "Education",
         readTime: "5 min read",
         author: "Jaywalk Team",
         authorImage: "images/authors/jaywalk-team.jpg",
-        contentFile: "community-engagement.html",
-        image: "images/posts/community-engagement.jpg"
+        contentFile: "why-stepping-back-from-meta-helps-us-reclaim-our-attention.html",
+        image: "https://ik.imagekit.io/jaywalkapp/why-stepping-back-from-meta-helps-us-reclaim-our-attention.jpg"
     },
     {
         id: "safety-tech-urban-mobility",
