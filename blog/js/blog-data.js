@@ -50,7 +50,7 @@ const blogPosts = [
         image: "https://ik.imagekit.io/jaywalkapp/why-stepping-back-from-meta-helps-us-reclaim-our-attention.jpg"
     },
     { 
-        id: "escape-the-noise-enter-uposcrolled",
+        id: "escape-the-noise-enter-upscrolled",
         title: "Escape the Noise, Enter UpScrolled",
         excerpt: "If the first step to digital wellbeing is recognizing how our attention is being taken, the second step is finding online spaces where it can breathe again",
         date: "December 25, 2025",
