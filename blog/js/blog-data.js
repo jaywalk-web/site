@@ -50,16 +50,16 @@ const blogPosts = [
         image: "https://ik.imagekit.io/jaywalkapp/why-stepping-back-from-meta-helps-us-reclaim-our-attention.jpg"
     },
     {
-        id: "safety-tech-urban-mobility",
-        title: "Next-Gen Safety Tech for Urban Mobility",
-        excerpt: "Emerging technologies shaping the future of pedestrian safety and urban mobility.",
-        date: "April 20, 2024",
-        pillar: "action",
+        id: "escape-the-noise-enter-upscrolled",
+        title: "Escape the Noise, Enter UpScrolled,
+        excerpt: "If the first step to digital wellbeing is recognizing how our attention is being taken, the second step is finding online spaces where it can breathe again.",
+        date: "December 26, 2025",
+        pillar: "community",
         readTime: "9 min read",
         author: "Jaywalk Team",
         authorImage: "images/authors/jaywalk-team.jpg",
-        contentFile: "safety-tech-urban-mobility.html",
-        image: "images/posts/safety-tech-urban-mobility.jpg"
+        contentFile: "escape-then-noise-enter-upscrolled.html",
+        image: "https://ik.imagekit.io/jaywalkapp/upscrolld.PNG"
     },
     {
         id: "urban-walking-behavior",
