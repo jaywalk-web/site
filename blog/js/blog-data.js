@@ -49,17 +49,18 @@ const blogPosts = [
         contentFile: "why-stepping-back-from-meta-helps-us-reclaim-our-attention.html",
         image: "https://ik.imagekit.io/jaywalkapp/why-stepping-back-from-meta-helps-us-reclaim-our-attention.jpg"
     },
-    {
-        id: "escape-the-noise-enter-upscrolled",
-        title: "Escape the Noise, Enter UpScrolled,
-        excerpt: "If the first step to digital wellbeing is recognizing how our attention is being taken, the second step is finding online spaces where it can breathe again.",
-        date: "December 26, 2025",
+    { 
+        id: "escape-the-noise-enter-uposcrolled",
+        title: "Escape the Noise, Enter UpScrolled",
+        excerpt: "If the first step to digital wellbeing is recognizing how our attention is being taken, the second step is finding online spaces where it can breathe again",
+        date: "December 25, 2025",
         pillar: "community",
-        readTime: "9 min read",
+        readTime: "5 min read",
         author: "Jaywalk Team",
         authorImage: "images/authors/jaywalk-team.jpg",
-        contentFile: "escape-then-noise-enter-upscrolled.html",
+        contentFile: "escape-the-noise-enter-uposcrolled.html",
         image: "https://ik.imagekit.io/jaywalkapp/upscrolld.PNG"
+     
     },
     {
         id: "urban-walking-behavior",
