@@ -22,7 +22,7 @@ const blogPosts = [
         readTime: "5 min read",
         author: "Jaywalk Team",
         authorImage: "images/authors/jaywalk-team.jpg",
-        contentFile: "escape-the-noise-enter-uposcrolled.html",
+        contentFile: "escape-the-noise-enter-upscrolled.html",
         image: "https://ik.imagekit.io/jaywalkapp/upscrolld.PNG"
      
     },
