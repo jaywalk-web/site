@@ -2,16 +2,16 @@
 
 const blogPosts = [
        {
-        id: "urban-walking-behavior",
-        title: "The Psychology of Urban Walking Behavior",
-        excerpt: "Understanding how pedestrians make decisions in complex urban environments.",
-        date: "April 15, 2024",
+        id: "jaywalk-app-built-for-people-on-the-ground",
+        title: "Jaywalk App Built for People on the Ground",
+        excerpt: "Jaywalk didn't begin as a typical app idea. It emerged from observing how real communities organize under pressure.",
+        date: "December 26, 2025",
         pillar: "education",
         readTime: "6 min read",
         author: "Jaywalk Team",
         authorImage: "images/authors/jaywalk-team.jpg",
-        contentFile: "urban-walking-behavior.html",
-        image: "images/posts/urban-walking-behavior.jpg"
+        contentFile: "jaywalk-app-built-for-people-on-the-ground.html",
+        image: "https://ik.imagekit.io/jaywalkapp/jaywalk-app-built-for-people-on-the-ground.jpg"
     },
       { 
         id: "escape-the-noise-enter-upscrolled",
