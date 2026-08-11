@@ -11,7 +11,7 @@ const blogPosts = [
         author: "Jaywalk Team",
         authorImage: "images/authors/jaywalk-team.jpg",
         contentFile: "august-remembered-month-activism-community-collective-action.html",
-        image: "https://jaywalk-web.github.io/site/blog/articles/images/thisabled-sign-3422241.jpg.jpg"
+        image: "https://jaywalk-web.github.io/site/blog/articles/images/thisabled-sign-3422241.jpg"
     },
       { 
         id: "escape-the-noise-enter-upscrolled",
