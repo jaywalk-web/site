@@ -2,16 +2,16 @@
 
 const blogPosts = [
        {
-        id: "jaywalk-app-built-for-people-on-the-ground",
-        title: "Jaywalk App Built for People on the Ground",
-        excerpt: "Jaywalk didn't begin as a typical app idea. It emerged from observing how real communities organize under pressure.",
-        date: "December 26, 2025",
+        id: "August, Remembered: A Month of Activism, Community & Collective Action",
+        title: "August, Remembered: A Month of Activism, Community & Collective Action",
+        excerpt: "Welcome to August—a month of remembrance, resistance, solidarity, and communities finding ways to be heard. Every August, communities around the world remember different histories, struggles, cultures, and humanitarian causes.",
+        date: "August, 2026",
         pillar: "education",
-        readTime: "6 min read",
+        readTime: "15 min read",
         author: "Jaywalk Team",
         authorImage: "images/authors/jaywalk-team.jpg",
-        contentFile: "jaywalk-app-built-for-people-on-the-ground.html",
-        image: "https://ik.imagekit.io/jaywalkapp/jaywalk-app-built-for-people-on-the-ground.jpg"
+        contentFile: "august-remembered-month-activism-community-collective-action.html",
+        image: "https://jaywalk-web.github.io/site/blog/articles/images/thisabled-sign-3422241.jpg.jpg"
     },
       { 
         id: "escape-the-noise-enter-upscrolled",
