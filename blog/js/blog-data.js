@@ -2,6 +2,18 @@
 
 const blogPosts = [
        {
+        id: "August twin liberations what Indonesia and Malaysia teach the world about community power",
+        title: "August twin liberations what Indonesia and Malaysia teach the world about community power",
+        excerpt: "We began this series by remembering August as a month of activism, remembrance, and collective action. Now, we turn to two specific milestones, August 17 and August 31, that mark the birth of two modern Southeast Asian nations: Indonesia and Malaysia.",
+        date: "August, 2026",
+        pillar: "community",
+        readTime: "15 min read",
+        author: "Jaywalk Team",
+        authorImage: "images/authors/jaywalk-team.jpg",
+        contentFile: "augusts-twin-liberations-what-indonesia-and-malaysia-teach-the-world-about-community-power.html",
+        image: "https://jaywalk-web.github.io/site/blog/articles/images/augusts-twin-liberations-what-indonesia-and-malaysia-teach-the-world-about-community-power.png"
+    },
+       {
         id: "August, Remembered: A Month of Activism, Community & Collective Action",
         title: "August, Remembered: A Month of Activism, Community & Collective Action",
         excerpt: "Welcome to August—a month of remembrance, resistance, solidarity, and communities finding ways to be heard. Every August, communities around the world remember different histories, struggles, cultures, and humanitarian causes.",
