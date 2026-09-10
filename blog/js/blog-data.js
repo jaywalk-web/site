@@ -2,6 +2,18 @@
 
 const blogPosts = [
        {
+        id: "We Don’t Need More Information. We Need Better Ways to Act",
+        title: "We Don’t Need More Information. We Need Better Ways to Act",
+        excerpt: "Imagine this: you are scrolling through your phone on your way to work when you come across a video about a crisis happening somewhere in the world.",
+        date: "September, 2026",
+        pillar: "action",
+        readTime: "15 min read",
+        author: "Jaywalk Team",
+        authorImage: "images/authors/jaywalk-team.jpg",
+        contentFile: "we-dont-need-more-information-we-need-better-ways-to-act.html",
+        image: "https://jaywalk-web.github.io/site/blog/articles/images/we-dont-need-more-information-we-need-better-ways-to-act.jpg"
+    },
+       {
         id: "August twin liberations what Indonesia and Malaysia teach the world about community power",
         title: "August twin liberations what Indonesia and Malaysia teach the world about community power",
         excerpt: "We began this series by remembering August as a month of activism, remembrance, and collective action. Now, we turn to two specific milestones, August 17 and August 31, that mark the birth of two modern Southeast Asian nations: Indonesia and Malaysia.",
