@@ -1,7 +1,21 @@
 // blog-data.js - Blog posts database (Add new posts here!)
 
 const blogPosts = [
-       {
+        {
+        id: "Beyond the Scroll: Meet the Communities That Could Change the World",
+        title: "Beyond the Scroll: Meet the Communities That Could Change the World",
+        excerpt: "Every day, the world arrives on our screens. A crisis appears before breakfast, a video goes viral, someone shares a story from across the world, a community launches a campaign, or an organizer calls for volunteers. We see it, we care, and then another post appears. Before long, we are scrolling again.",
+        date: "September, 2026",
+        pillar: "action",
+        readTime: "15 min read",
+        author: "Jaywalk Team",
+        authorImage: "images/authors/jaywalk-team.jpg",
+        contentFile: "beyond-the-scroll-meet-the-communities-that-could-change-the-world.html",
+        image: "https://jaywalk-web.github.io/site/blog/articles/images/beyond-the-scroll-meet-the-communities-that-could-change-the-world.jpg"
+    }
+       
+       
+       ,{
         id: "We Don’t Need More Information. We Need Better Ways to Act",
         title: "We Don’t Need More Information. We Need Better Ways to Act",
         excerpt: "Imagine this: you are scrolling through your phone on your way to work when you come across a video about a crisis happening somewhere in the world.",
