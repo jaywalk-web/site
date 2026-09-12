@@ -1,7 +1,19 @@
 // blog-data.js - Blog posts database (Add new posts here!)
 
 const blogPosts = [
+        
         {
+        id: "Finding Connection in a Disconnected World",
+        title: "Finding Connection in a Disconnected World",
+        excerpt: "The internet was built around the promise of connection. It was supposed to make distance smaller, bring people closer, and give us new ways to communicate with one another. Yet there is something deeply ironic about the digital world we have built: we can be connected to thousands of people and still feel completely alone.",
+        date: "September, 2026",
+        pillar: "community",
+        readTime: "15 min read",
+        author: "Jaywalk Team",
+        authorImage: "images/authors/jaywalk-team.jpg",
+        contentFile: "finding-connection-in-a-disconnected-world.html",
+        image: "https://jaywalk-web.github.io/site/blog/articles/images/finding-connection-in-a-disconnected-world.jpg"
+    },{
         id: "Beyond the Scroll: Meet the Communities That Could Change the World",
         title: "Beyond the Scroll: Meet the Communities That Could Change the World",
         excerpt: "Every day, the world arrives on our screens. A crisis appears before breakfast, a video goes viral, someone shares a story from across the world, a community launches a campaign, or an organizer calls for volunteers. We see it, we care, and then another post appears. Before long, we are scrolling again.",
