@@ -1,8 +1,18 @@
 // blog-data.js - Blog posts database (Add new posts here!)
 
 const blogPosts = [
-        
-        {
+         {
+        id: "People Power: The Stakeholders of Our Own Country",
+        title: "People Power: The Stakeholders of Our Own Country",
+        excerpt: "History has repeatedly shown that power does not belong exclusively to those sitting inside institutions. It also belongs to the people who give those institutions their legitimacy. Across different periods, ordinary people have raised their voices when institutions failed to serve the communities they were meant to protect",
+        date: "September, 2026",
+        pillar: "action",
+        readTime: "15 min read",
+        author: "Riz",
+        authorImage: "images/authors/jaywalk-team.jpg",
+        contentFile: "people-power-the-stakeholders-of-our-own-country.html",
+        image: "https://jaywalk-web.github.io/site/blog/articles/images/people-power-the-stakeholders-of-our-own-country.jpg"
+    },{
         id: "Finding Connection in a Disconnected World",
         title: "Finding Connection in a Disconnected World",
         excerpt: "The internet was built around the promise of connection. It was supposed to make distance smaller, bring people closer, and give us new ways to communicate with one another. Yet there is something deeply ironic about the digital world we have built: we can be connected to thousands of people and still feel completely alone.",
