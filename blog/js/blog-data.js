@@ -1,6 +1,17 @@
 // blog-data.js - Blog posts database (Add new posts here!)
 
-const blogPosts = [
+const blogPosts = [ {
+        id: "Finding Your Cause: How to Turn What You Care About Into Action",
+        title: "Finding Your Cause: How to Turn What You Care About Into Action",
+        excerpt: "Feeling the weight of the world's problems is a sign that you're paying attention. But attention alone can quickly turn into paralysis.",
+        date: "September, 2026",
+        pillar: "action",
+        readTime: "15 min read",
+        author: "Riz",
+        authorImage: "images/authors/jaywalk-team.jpg",
+        contentFile: "finding-your-cause-how-to-turn-what-you-care-about-into-action.html",
+        image: "https://jaywalk-web.github.io/site/blog/articles/images/finding-your-cause-how-to-turn-what-you-care-about-into-action.jpg"
+    },
          {
         id: "People Power: The Stakeholders of Our Own Country",
         title: "People Power: The Stakeholders of Our Own Country",
