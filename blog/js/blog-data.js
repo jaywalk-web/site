@@ -1,6 +1,17 @@
 // blog-data.js - Blog posts database (Add new posts here!)
 
 const blogPosts = [ {
+        id: "The Space Between Caring and Taking Action",
+        title: "The Space Between Caring and Taking Action",
+        excerpt: "Have you ever watched thousands of people come together for something they believe in and felt moved by what people can accomplish when they stand together? Perhaps it was a movement demanding justice, a mass gathering in solidarity with people facing oppression",
+        date: "October, 2026",
+        pillar: "action",
+        readTime: "15 min read",
+        author: "JayWalk Team",
+        authorImage: "images/authors/jaywalk-team.jpg",
+        contentFile: "the-space-between-caring-and-taking-action.html",
+        image: "https://jaywalk-web.github.io/site/blog/articles/images/the-space-between-caring-and-taking-action.jpg"
+    }, {
         id: "Finding Your Cause: How to Turn What You Care About Into Action",
         title: "Finding Your Cause: How to Turn What You Care About Into Action",
         excerpt: "Feeling the weight of the world's problems is a sign that you're paying attention. But attention alone can quickly turn into paralysis.",
